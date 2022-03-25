@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nayeemahmedshaik/my-name-package/issues"
   },
-  "homepage": "https://github.com/nayeemahmedshaik/my-name-package#readme"
+  "homepage": "https://github.com/nayeemahmedshaik/my-name-package#readme",
+  "dependencies": {
+    "mypackage": "^0.1.0"
+  }
 }
