@@ -1,0 +1,19 @@
+{
+  "name": "my-name-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayeemahmedshaik/my-name-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayeemahmedshaik/my-name-package/issues"
+  },
+  "homepage": "https://github.com/nayeemahmedshaik/my-name-package#readme"
+}
